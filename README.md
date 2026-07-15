@@ -19,11 +19,11 @@ Passionate about software development, cybersecurity, and building practical pro
 
 ---
 
-## 🔭 Current Project
+### 🔭 Current Project
 
-🌸 **The Wandering Bloom**
+### 🌸 The Wandering Bloom *(Group Project)*
+Designed a bouquet website in Figma and developed it using **HTML** and **CSS**, focusing on a clean, responsive, and user-friendly interface.
 
-A responsive bouquet website designed in **Figma** and developed using **HTML & CSS** as part of a collaborative team project.
 
 🔗 https://25i-6514.github.io/the-wandering-bloom/
 
