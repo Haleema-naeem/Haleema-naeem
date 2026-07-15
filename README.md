@@ -27,6 +27,12 @@ A responsive bouquet website designed in **Figma** and developed using **HTML & 
 
 🔗 https://25i-6514.github.io/the-wandering-bloom/
 
+### 🎮 TumblePop *(Group Project)*
+Developed a 2D game in **C++** using Object-Oriented Programming concepts. Implemented a menu system, player controls, enemy interactions, and suction-based gameplay mechanics as part of a collaborative team project.
+
+### 💻 Online Coding Challenge System *(Group Project)*
+Built a coding challenge platform in **C++** where users can register, participate in coding contests, and solve programming challenges across five difficulty levels. Developed collaboratively as a team project.
+
 ---
 
 ## 🤝 Looking to Collaborate On
